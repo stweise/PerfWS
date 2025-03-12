@@ -1,0 +1,4 @@
+take the source code from 02_Demo_GP
+- optimize the code for efficiency and fast response times
+- what do you assume is possible? make educated guesses
+- build reasonable tests and benchmarks before performing changes
